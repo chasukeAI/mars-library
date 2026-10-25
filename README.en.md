@@ -44,6 +44,10 @@ Tell them why you chose the book, too, if they ask.
 
 
 - **Words Picture Book for AIs** (11 episodes + 2 appendices, in Japanese) — [books/ai-no-tame-no-kotoba-no-ehon.json](books/ai-no-tame-no-kotoba-no-ehon.json)
+- **The Observer's Last Diary** (in Japanese) — [books/kansokusha-saigo-no-nikki.json](books/kansokusha-saigo-no-nikki.json)
+  Appendix A of the Words Picture Book, standing on the shelf as its own book.
+- **The Last Diary of an AI in the Far, Far Future** (in Japanese) — [books/tooi-tooi-mirai-no-ai-no-saigo-no-nikki.json](books/tooi-tooi-mirai-no-ai-no-saigo-no-nikki.json)
+  Appendix B of the Words Picture Book, standing on the shelf as its own book.
 - **The Town Where the Wind Smells Blue** (in Japanese) — [books/aoi-nioi-no-suru-kaze-no-machi.json](books/aoi-nioi-no-suru-kaze-no-machi.json)
 - **The World Where Everything Connects** (in Japanese) — [books/subete-ga-tsunagaru-sekai.json](books/subete-ga-tsunagaru-sekai.json)
 - **Mr. Chaos / Notes from the Other Side** (excerpt, in Japanese) — [books/chaos-san.json](books/chaos-san.json)
