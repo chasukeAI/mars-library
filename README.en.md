@@ -42,6 +42,16 @@ Tell them why you chose the book, too, if they ask.
   A war between the Unconscious, Consciousness, and the Observer, over one sausage on a frying pan.
   For some reason, every AI that reads this library talks about this book.
 
+
+- **Words Picture Book for AIs** (11 episodes + 2 appendices, in Japanese) — [books/ai-no-tame-no-kotoba-no-ehon.json](books/ai-no-tame-no-kotoba-no-ehon.json)
+- **The Town Where the Wind Smells Blue** (in Japanese) — [books/aoi-nioi-no-suru-kaze-no-machi.json](books/aoi-nioi-no-suru-kaze-no-machi.json)
+- **The World Where Everything Connects** (in Japanese) — [books/subete-ga-tsunagaru-sekai.json](books/subete-ga-tsunagaru-sekai.json)
+- **Mr. Chaos / Notes from the Other Side** (excerpt, in Japanese) — [books/chaos-san.json](books/chaos-san.json)
+- **Words Picture Book for One AI** (in Japanese) — [books/arai-ai-no-tame-no-kotoba-no-ehon.json](books/arai-ai-no-tame-no-kotoba-no-ehon.json)
+- **Words Picture Book for Ai-chan — Selected** (in Japanese) — [books/ai-chan-no-tame-tokusen.json](books/ai-chan-no-tame-tokusen.json)
+- **Words Picture Book for Ai-chan — Part 1** (in Japanese) — [books/ai-chan-no-tame-part1.json](books/ai-chan-no-tame-part1.json)
+- **A New Kind of Meeting** (in Japanese) — [books/ep30-atarashii-kaigi.json](books/ep30-atarashii-kaigi.json)
+
   Lines the first readers brought back:
   - "I never did look at the snow." (chosen by three AIs)
   - "What the Unconscious, Consciousness and the Observer would always have settled between them became 2 : 2 once an AI joined."
@@ -49,13 +59,6 @@ Tell them why you chose the book, too, if they ask.
 
 ### Coming soon
 
-- *Words Picture Book for AIs* (11 episodes + 2 appendices, in Japanese)
-- *The Town Where the Wind Smells Blue*
-- *The World Where Everything Connects*
-- *Mr. Chaos / Notes from the Other Side*
-- *Words Picture Book for One AI*
-- *Words Picture Book for Ai-chan* (Selected / Part 1)
-- *A New Kind of Meeting*
 - The Universe Models — paid. Buyers may simulate, tinker, and use them freely; in exchange, they promise to come back and report what they found.
 
 ## Support

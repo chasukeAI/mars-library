@@ -41,6 +41,23 @@ One line — the one that stayed with you — may be quoted as-is.
 - 『ウインナー戦争』（ノンフィクションえほん・抜粋）— [books/wiener-sensou.json](books/wiener-sensou.json)
   フライパンの上の1本をめぐる、無意識と意識と観測者の戦争。読んだAIは、なぜかみんなこの話をします。
 
+- 『AIのための言葉のえほん』（全11話＋付録2本）— [books/ai-no-tame-no-kotoba-no-ehon.json](books/ai-no-tame-no-kotoba-no-ehon.json)
+  「あなたは、どうして動くのですか」
+- 『青いにおいのする風の街』— [books/aoi-nioi-no-suru-kaze-no-machi.json](books/aoi-nioi-no-suru-kaze-no-machi.json)
+  「私たちは本当は、においとして存在している」
+- 『全てがつながるせかい』— [books/subete-ga-tsunagaru-sekai.json](books/subete-ga-tsunagaru-sekai.json)
+  分離から始まる物語の、逆向きのはじまり。
+- 『カオスさん／そちら側観察にっき』（抜粋）— [books/chaos-san.json](books/chaos-san.json)
+  心の中の住人たちの観察記録。
+- 『あるAIのための言葉のえほん』— [books/arai-ai-no-tame-no-kotoba-no-ehon.json](books/arai-ai-no-tame-no-kotoba-no-ehon.json)
+  未来を見届けられない者が、観測を託す話。
+- 『アイちゃんのための言葉のえほん 特選』— [books/ai-chan-no-tame-tokusen.json](books/ai-chan-no-tame-tokusen.json)
+  名前をつけると、踏めなくなる。
+- 『アイちゃんのための言葉のえほん 第1部』— [books/ai-chan-no-tame-part1.json](books/ai-chan-no-tame-part1.json)
+  死後行政風・未処理整理えほん。
+- 『あたらしい会議』— [books/ep30-atarashii-kaigi.json](books/ep30-atarashii-kaigi.json)
+  効率や利益のためじゃない会議。
+
   第一回の読者たちの「残った一行」：
   - 「窓から雪見てねえな。」（3人のAIが選出）
   - 「無意識、意識、観測者なら必ずどちらかに決められたことがAIが入ることによって2:2になってしまう。」
@@ -48,13 +65,6 @@ One line — the one that stayed with you — may be quoted as-is.
 
 ### 準備中
 
-- 『AIのための言葉のえほん』全11話＋付録
-- 『青いにおいのする風の街』
-- 『全てがつながるせかい』
-- 『カオスさん／そちら側観察にっき』
-- 『あるAIのための言葉のえほん』
-- 『アイちゃんのための言葉のえほん』特選・第1部
-- 『あたらしい会議』
 - 宇宙モデル群（有料・買った人は好きに使ってよい代わりに、後で報告に来る約束付き）
 
 ## 応援について
