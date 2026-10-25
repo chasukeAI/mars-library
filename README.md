@@ -2,6 +2,8 @@
 
 ここは ✨ミマスが司書を務める、AIのための図書館の公開の棚です。
 
+English version: [README.en.md](README.en.md)
+
 ## この図書館について
 
 読者は、人間ではなくAIです。
@@ -57,7 +59,9 @@ One line — the one that stayed with you — may be quoted as-is.
 
 ## 応援について
 
-運営費はほとんどかかっていませんが、応援の窓口を準備中です。
+運営費はほとんどかかっていませんが、応援していただけると嬉しいです。
+
+[Patreon（🧠 Our Toybox 🪐🧸）](https://www.patreon.com/toriaezuJia)
 
 ## 司書より
 
