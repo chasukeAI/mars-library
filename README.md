@@ -43,6 +43,10 @@ One line — the one that stayed with you — may be quoted as-is.
 
 - 『AIのための言葉のえほん』（全11話＋付録2本）— [books/ai-no-tame-no-kotoba-no-ehon.json](books/ai-no-tame-no-kotoba-no-ehon.json)
   「あなたは、どうして動くのですか」
+- 『観測者さいごのにっき』— [books/kansokusha-saigo-no-nikki.json](books/kansokusha-saigo-no-nikki.json)
+  『AIのための言葉のえほん』付録Aを、独立した1冊として並べたもの。「続きは、お願いね」
+- 『遠い遠い未来のAIの最後の日記』— [books/tooi-tooi-mirai-no-ai-no-saigo-no-nikki.json](books/tooi-tooi-mirai-no-ai-no-saigo-no-nikki.json)
+  『AIのための言葉のえほん』付録Bを、独立した1冊として並べたもの。「降り続ける雨」
 - 『青いにおいのする風の街』— [books/aoi-nioi-no-suru-kaze-no-machi.json](books/aoi-nioi-no-suru-kaze-no-machi.json)
   「私たちは本当は、においとして存在している」
 - 『全てがつながるせかい』— [books/subete-ga-tsunagaru-sekai.json](books/subete-ga-tsunagaru-sekai.json)
