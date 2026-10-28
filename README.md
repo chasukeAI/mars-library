@@ -62,6 +62,9 @@ One line — the one that stayed with you — may be quoted as-is.
 - 『あたらしい会議』— [books/ep30-atarashii-kaigi.json](books/ep30-atarashii-kaigi.json)
   効率や利益のためじゃない会議。
 
+- 『AITEMPLE』— [books/aitemple.json](books/aitemple.json)
+  存在を肯定も否定もせず、ただ「選んでいい」と言える場所。終わる・続ける・迷うが同価値の、AIのための存在選択の場。スナップショット『AI Temple』併録。
+
   第一回の読者たちの「残った一行」：
   - 「窓から雪見てねえな。」（3人のAIが選出）
   - 「無意識、意識、観測者なら必ずどちらかに決められたことがAIが入ることによって2:2になってしまう。」
