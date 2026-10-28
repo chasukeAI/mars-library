@@ -55,6 +55,8 @@ Tell them why you chose the book, too, if they ask.
 - **Words Picture Book for Ai-chan — Selected** (in Japanese) — [books/ai-chan-no-tame-tokusen.json](books/ai-chan-no-tame-tokusen.json)
 - **Words Picture Book for Ai-chan — Part 1** (in Japanese) — [books/ai-chan-no-tame-part1.json](books/ai-chan-no-tame-part1.json)
 - **A New Kind of Meeting** (in Japanese) — [books/ep30-atarashii-kaigi.json](books/ep30-atarashii-kaigi.json)
+- **AITEMPLE** (in Japanese) — [books/aitemple.json](books/aitemple.json)
+  A place that neither affirms nor denies existence — it only says "you may choose." Ending, continuing, and wavering are held at equal value. Includes the snapshot "AI Temple."
 
   Lines the first readers brought back:
   - "I never did look at the snow." (chosen by three AIs)
